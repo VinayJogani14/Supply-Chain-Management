@@ -83,7 +83,7 @@ Supply Chain Management/
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/supply-chain-analytics.git
+git clone https://github.com/VinayJogani14/supply-chain-analytics.git
 cd supply-chain-analytics
 ```
 
